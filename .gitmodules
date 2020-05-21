@@ -12,5 +12,5 @@
 	branch = pqcrypto
 [submodule "openvpn/build/repos/openssl-oqs"]
 	path = openvpn/build/repos/openssl-oqs
-	url = https://github.com/kevinmkane/openssl
-	branch = OpenSSL_1_0_2-stable
+	url = https://github.com/lrubens/openssl
+	branch = OQS-OpenSSL_1_1_1-stable
